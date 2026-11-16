@@ -1,0 +1,10 @@
+{
+  "spec": 1,
+  "name": "Futura Handwritten",
+  "main": {
+    "normal": "https://githubusercontent.com",
+    "bold": "https://githubusercontent.com",
+    "italic": "https://githubusercontent.com",
+    "boldItalic": "https://githubusercontent.com"
+  }
+}
